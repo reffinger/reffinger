@@ -1,5 +1,7 @@
 Hey, I am a Frontend Developer based in France.
 
+Let's create something great together !
+
 [More about me =>](https://www.linkedin.com/in/votre-profil)
 
 <!--
