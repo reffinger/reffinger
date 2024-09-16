@@ -1,4 +1,6 @@
-## Hi there 👋
+Hey, I am a Frontend Developer based in France.
+
+[More about me =>](https://www.linkedin.com/in/votre-profil)
 
 <!--
 **reffinger/reffinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
